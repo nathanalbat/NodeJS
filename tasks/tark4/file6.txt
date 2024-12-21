@@ -1,0 +1,2 @@
+Line 1 of file 6
+Line 2 of file 6
